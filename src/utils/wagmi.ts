@@ -46,7 +46,7 @@ export const coinbaseConnector = new CoinbaseWalletConnector({
   chains,
   options: {
     appName: 'FourSwap',
-    appLogoUrl: 'https://pancakeswap.com/logo.png',
+    appLogoUrl: 'https://fourswap.xyz/favicon.png',
   },
 })
 
@@ -57,8 +57,8 @@ export const walletConnectConnector = new WalletConnectConnector({
     metadata: {
       name: 'SwapV2',
       description: 'This is Swap V2 fork from pancake',
-      url: 'https://nhancv.com',
-      icons: ['https://i0.wp.com/nhancv.com/wp-content/uploads/2020/10/cropped-17565440.png'],
+      url: 'https://fourswap.xyz',
+      icons: ['https://fourswap.xyz/favicon.png'],
     },
   },
 })

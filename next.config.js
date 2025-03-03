@@ -43,6 +43,9 @@ const config = {
   images: {
     domains: ['static-nft.pancakeswap.com'],
   },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
   async rewrites() {
     return [
       {

@@ -6,7 +6,7 @@ export const DEFAULT_META: PageMeta = {
   title: 'FourSwap',
   description:
     'The most popular AMM on BSC by user count! Earn CAKE through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by FourSwap), NFTs, and more, on a platform you can trust.',
-  image: 'https://pancakeswap.finance/images/hero.png',
+  image: 'https://fourswap.xyz/images/hero.png',
 }
 
 interface PathList {

@@ -207,7 +207,7 @@ export const bscTokens = {
     18,
     'SYRUP',
     'SyrupBar Token',
-    'https://pancakeswap.finance/',
+    'https://fourswap.xyz/',
   ),
   pha: new Token(
     ChainId.BSC,

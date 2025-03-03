@@ -9,7 +9,7 @@ const tokens = {
       97: "0xB8F5B50ed77596b5E638359d828000747bb3dd89",
     },
     decimals: 18,
-    projectLink: "https://pancakeswap.finance/",
+    projectLink: "https://fourswap.xyz/",
   },
   txl: {
     symbol: "TXL",
@@ -441,7 +441,7 @@ const tokens = {
       97: "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
     },
     decimals: 18,
-    projectLink: "https://pancakeswap.finance/",
+    projectLink: "https://fourswap.xyz/",
   },
   blink: {
     symbol: "BLINK",
@@ -585,7 +585,7 @@ const tokens = {
       97: "0xfE1e507CeB712BDe086f3579d2c03248b2dB77f9",
     },
     decimals: 18,
-    projectLink: "https://pancakeswap.finance/",
+    projectLink: "https://fourswap.xyz/",
   },
   bifi: {
     symbol: "BIFI",

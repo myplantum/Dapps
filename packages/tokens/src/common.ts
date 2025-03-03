@@ -6,7 +6,7 @@ export const CAKE_MAINNET = new Token(
   18,
   'CAKE',
   'FourSwap Token',
-  'https://pancakeswap.finance/',
+  'https://fourswap.xyz/',
 )
 
 export const CAKE_TESTNET = new Token(
@@ -15,7 +15,7 @@ export const CAKE_TESTNET = new Token(
   18,
   'CAKE',
   'FourSwap Token',
-  'https://pancakeswap.finance/',
+  'https://fourswap.xyz/',
 )
 
 export const USDC_BSC = new Token(

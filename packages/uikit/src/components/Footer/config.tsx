@@ -8,7 +8,7 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "https://docs.pancakeswap.finance/contact-us",
+        href: "https://docs.fourswap.xyz/contact-us",
       },
       {
         label: "Blog",
@@ -16,11 +16,11 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Community",
-        href: "https://docs.pancakeswap.finance/contact-us/telegram",
+        href: "https://docs.fourswap.xyz/contact-us/telegram",
       },
       {
         label: "CAKE",
-        href: "https://docs.pancakeswap.finance/tokenomics/cake",
+        href: "https://docs.fourswap.xyz/tokenomics/cake",
       },
       {
         label: "—",
@@ -37,15 +37,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Customer",
-        href: "Support https://docs.pancakeswap.finance/contact-us/customer-support",
+        href: "Support https://docs.fourswap.xyz/contact-us/customer-support",
       },
       {
         label: "Troubleshooting",
-        href: "https://docs.pancakeswap.finance/help/troubleshooting",
+        href: "https://docs.fourswap.xyz/help/troubleshooting",
       },
       {
         label: "Guides",
-        href: "https://docs.pancakeswap.finance/get-started",
+        href: "https://docs.fourswap.xyz/get-started",
       },
     ],
   },
@@ -58,7 +58,7 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Documentation",
-        href: "https://docs.pancakeswap.finance",
+        href: "https://docs.fourswap.xyz",
       },
       {
         label: "Bug Bounty",
@@ -66,11 +66,11 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Audits",
-        href: "https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
+        href: "https://docs.fourswap.xyz/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
       },
       {
         label: "Careers",
-        href: "https://docs.pancakeswap.finance/hiring/become-a-chef",
+        href: "https://docs.fourswap.xyz/hiring/become-a-chef",
       },
     ],
   },

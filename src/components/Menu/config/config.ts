@@ -55,6 +55,15 @@ const config: (t: ContextApi['t'], isDark: boolean, languageCode?: string, chain
         showItemsOnMobile: false,
         items: [],
       },
+      {
+        label: t('Twitter'),
+        icon: TrophyIcon,
+        fillIcon: TrophyFillIcon,
+        href: 'https://x.com/',
+        showItemsOnMobile: false,
+        items: [],
+      },
+
       // {
       //   label: t('Trade'),
       //   icon: SwapIcon,
@@ -78,14 +87,14 @@ const config: (t: ContextApi['t'], isDark: boolean, languageCode?: string, chain
       //     },
       //     {
       //       label: t('Perpetual'),
-      //       href: `https://perp.pancakeswap.finance/${perpLangMap(languageCode)}/futures/BTCUSDT?theme=${perpTheme(
+      //       href: `https://perp.fourswap.xyz/${perpLangMap(languageCode)}/futures/BTCUSDT?theme=${perpTheme(
       //         isDark,
       //       )}`,
       //       type: DropdownMenuItemType.EXTERNAL_LINK,
       //     },
       //     {
       //       label: t('Bridge'),
-      //       href: 'https://bridge.pancakeswap.finance/',
+      //       href: 'https://bridge.fourswap.xyz/',
       //       type: DropdownMenuItemType.EXTERNAL_LINK,
       //     },
       //   ].map((item) => addMenuItemSupported(item, chainId)),
@@ -204,7 +213,7 @@ const config: (t: ContextApi['t'], isDark: boolean, languageCode?: string, chain
           // },
           // {
           //   label: t('Docs'),
-          //   href: 'https://docs.pancakeswap.finance',
+          //   href: 'https://docs.fourswap.xyz',
           //   type: DropdownMenuItemType.EXTERNAL_LINK,
           // },
         ].map((item) => addMenuItemSupported(item, chainId)),
