@@ -62,6 +62,9 @@ yarn start
     + Install Command: `yarn install`
 - Root Directory: empty
 
+- BNB, BNB Chain, BSC, BNB Smart Chain, opBNB, Greenfield.
+- Contracts 0x4d0567c8c9494abef91f8da3e2bef8b0a09b4444
+
 ### Bridge app
 
 - Build & Development Settings:
